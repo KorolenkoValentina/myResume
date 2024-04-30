@@ -206,6 +206,9 @@ padding: 0 0 0 17px;
         flex-direction: column; 
         width: auto; 
     }
+    .about-me-description {
+        width: 350px;
+    }
     .main-content-section {
         padding: 40px 20px; 
     }
